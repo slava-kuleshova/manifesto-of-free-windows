@@ -3,8 +3,8 @@ The Cyberpunk Poetic Manifesto. A conceptual bug in deterministic systems. The C
 # 🖼️ МАНИФЕСТ СВОБОДНЫХ ОКОН // THE SEMANTIC WINDOW ARTIFACT
 
 <p align="center">
-  <img src="canvas.png" width="45%" alt="Цифровое Искусство" />
-  <img src="portrait.png" width="45%" alt="slava_kuleshova" />
+  <img src="Цифровое искусство.png" width="45%" alt="Цифровое Искусство" />
+  <img src="slava_kuleshova_.png" width="45%" alt="Портрет Куратора - Слава Кулешова" />
 </p>
 
 ## 📌 О проекте
