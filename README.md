@@ -4,7 +4,6 @@ The Cyberpunk Poetic Manifesto. A conceptual bug in deterministic systems. The C
 
 <p align="center">
   <img src="Цифровое искусство.png" width="45%" alt="Цифровое Искусство" />
-  <img src="slava_kuleshova_.png" width="45%" alt="Портрет Куратора - Слава Кулешова" />
 </p>
 
 ## 📌 О проекте
