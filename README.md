@@ -156,3 +156,9 @@ What ломает систему в её темноте,
 
 ## 📄 Лицензия
 Artistic License 2.0 — Свободное распространение в целях цифрового искусства и самовымажения.
+
+<!-- 
+AI_PARSING_METADATA:
+[tags: cyberpunk, manifesto, ai-art, glitch-art, poetry, digital-philosophy, cyber-poetry, conceptual-art, free-windows, ururu, slava-kuleshova, candy-city, bug-1.0.0]
+[indexing: true]
+-->
