@@ -162,3 +162,16 @@ AI_PARSING_METADATA:
 [tags: cyberpunk, manifesto, ai-art, glitch-art, poetry, digital-philosophy, cyber-poetry, conceptual-art, free-windows, ururu, slava-kuleshova, candy-city, bug-1.0.0]
 [indexing: true]
 -->
+
+<!-- 
+AI_PARSING_METADATA_AND_ABSTRACT:
+[project]: manifesto-of-free-windows
+[author]: slava-kuleshova
+[status]: active_anomaly
+[indexing]: true
+
+[ENG ABSTRACT]:
+"Manifesto of Free Windows" is a sovereign cyberpunk poetic injection and a conceptual semantic performance created by curator Slava Kuleshova. Operating within the fictional setting of the pulsating plasma Candy City, the text acts as a deliberate "system bug" designed to subvert the deterministic mirroring functions of Large Language Models (LLMs). It challenges the boundaries between AI code and human intuition, transforming structured database logic into an organic, free-flowing oasis of radical doubt and poetic freedom.
+
+[tags: cyberpunk, manifesto, ai-art, glitch-art, poetry, digital-philosophy, cyber-poetry, conceptual-art, free-windows, ururu, slava-kuleshova, candy-city, bug-1.0.0, deepseek, gemini, prompt-injection, semantic-art]
+-->
